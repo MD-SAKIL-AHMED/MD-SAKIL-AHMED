@@ -1,7 +1,7 @@
 
 ![](https://media.licdn.com/dms/image/v2/D5616AQFK69GZkrN5kA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727707836018?e=1733356800&v=beta&t=6hcXsxMzvPhHupfQ1DJc8sKjV48bvBrdS0KZ7fOM0Iw)
 
-# Hi there 👋, My name is SAKIL AHMED
+# Hi there 👋, I AM SAKIL AHMED
 
 # 💫 About Me:
 I am a Junior Software Tester with strong attention to detail. Since I start testing, I learned how important is to be meticulous and a team player. I like new challenges, that made me want to learn more and more about this domain and improve my skills every day. I am looking for a company that will give me the chance to learn and develop myself as a Software tester.   
