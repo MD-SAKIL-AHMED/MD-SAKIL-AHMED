@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Sakil Ahmed</h1>
-<div align="center"> <img src="https://media.licdn.com/dms/image/v2/D5616AQFK69GZkrN5kA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727707836018?e=1733356800&v=beta&t=6hcXsxMzvPhHupfQ1DJc8sKjV48bvBrdS0KZ7fOM0Iw"> </div>
+<div align="center"> <img src="https://i.ibb.co.com/HzCR0rv/Yellow-Geometric-Modern-Professional-Manager-Linked-In-Banner.png"> </div>
 <h3 align="center">I am a Junior Software Tester with strong attention to detail. Since I start testing, I learned how important is to be meticulous and a team player. I like new challenges, that made me want to learn more and more about this domain and improve my skills every day. </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
