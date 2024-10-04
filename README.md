@@ -10,6 +10,7 @@
 - 💬 Ask me about **Automation testing & Manual testing**
 
 - 📫 How to reach me **sakil.sqa@gmail.com**
+- 👨‍💻 Find me here : [Sakil All profile](https://linktr.ee/Sakil2318)
 
 
 <h3 align="left">Connect with me:</h3>
