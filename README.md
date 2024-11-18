@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Sakil Ahmed</h1>
 <div align="center"> <img src="https://i.ibb.co.com/HzCR0rv/Yellow-Geometric-Modern-Professional-Manager-Linked-In-Banner.png"> </div>
-<h3 align="center">I am a Junior Software Tester with strong attention to detail. Since I start testing, I learned how important is to be meticulous and a team player. I like new challenges, that made me want to learn more and more about this domain and improve my skills every day. </h3>
+<h3 align="center">"Highly motivated and detail-oriented Computer Science and Engineering graduate from Yunnan university, trained in manual testing and defect tracking with strong analytical and teamwork skills. Seeking a position as a Software Quality Assurance Engineer at [Company Name] to leverage my knowledge and skills in ensuring software excellence and enhancing product quality to meet business goals." </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
